@@ -1,7 +1,7 @@
 name: encryptor
 description: AES with PKCS7 padding encryption with simple encrypt/decrypt functions.
 version: 0.0.1
-homepage:
+homepage: https://github.com/baseplate77/encryptor
 
 environment:
   sdk: ">=2.15.0 <3.0.0"

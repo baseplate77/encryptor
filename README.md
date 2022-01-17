@@ -1,3 +1,5 @@
+# Encryptor
+
 Super easy Encrypt decrypt high level API for Flutter APPs
 
 > This package is a wrapper around [encrypt](https://pub.dev/packages/encrypt). for more secure encryption with randomIV please check it.
